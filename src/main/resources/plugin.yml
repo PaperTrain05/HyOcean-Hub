@@ -1,0 +1,10 @@
+name: HyOceanHUB
+version: '${project.version}'
+main: net.hyocean.hyoceanhub.Main
+api-version: 1.16
+website: hyocean.net
+load: STARTUP
+authors: [ PaperTrain05]
+commands:
+  gamemode:
+    description: "Change You GameMode Status"
